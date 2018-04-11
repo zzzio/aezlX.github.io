@@ -1,9 +1,9 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
+title:             Aezlo Blog
+email:             aezloman@athelo.net
+description:       The aezlo 🚀 blog
 author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+baseurl:           "/blog"
+url:               "http://athelo.net"
 
 # Social Profiles
 twitter_username:  SBootstrap
